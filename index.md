@@ -61,6 +61,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Image of Yaktocat](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.jpg)
 [https://daringfireball.net/projects/markdown/basics] and ![Image](src)
 ```
 

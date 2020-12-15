@@ -1,18 +1,12 @@
 ## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
 
-You can use the [editor on GitHub](https://github.com/nguerrao/Robotics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### ***Extension Project proposition - Paper 'Twitter proposals'***
 
-### Extension Project proposition - Paper 'Twitter proposals'
 
-### 1. Title
 
-Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
-
-### 2. Abstract
+###### Abstract
 
 On the 10 proposals of social studies of the paper, only 4 are replicated. The authors suggest 'it might be because these propositions reflect the homogeneity of online user behaviors'. Thus the idea is to have a closer look on this statement and test if 3 of the 4 replicated proposals are robust when tested on another social media, here Instagram. As said in paper, we 'Need to retest the robustness of these propositions before we can consider them as universal’. Our goal will be to select these 3 proposals and try to replicate the results from the Twitter social studies.
 
@@ -67,7 +61,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://daringfireball.net/projects/markdown/basics) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

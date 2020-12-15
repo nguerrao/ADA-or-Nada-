@@ -32,6 +32,9 @@ Attention vs. productivity: For attention, we will consider both followers and f
 
 Followers-followees network: : The available data is a network with the relationship of follower/followee between users in instagram. From this network, the number of mutual or singular followers will be extracted. Then the degree distribution in the follower-followee network will be plotted for the three different relationships: follower,followee or reciprocal.
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 ### 6. Proposed timeline
 
 Week 1: Downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
@@ -40,11 +43,14 @@ Week 2: First plots to check for the ciracdian rythm, build up of the plots for 
 
 Week 3: Compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
 
-![Image of Yaktocat](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.jpg)
+![Image of EPFL](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.jpg)
 
 ### 7. Organization within the team
 
-Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada. Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question. Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions. F
+Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada. Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question. Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions. 
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -40,8 +40,15 @@ Week 2: First plots to check for the ciracdian rythm, build up of the plots for 
 
 Week 3: Compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
 
-![Image of EPFL](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.JPG)
+
+![Image of EPFL](https://nguerrao.github.io/Robotics/EPFL.JPG)
 
 ### 7. Organization within the team
 
 Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada. Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question. Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions. 
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column

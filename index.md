@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
 
 You can use the [editor on GitHub](https://github.com/nguerrao/Robotics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

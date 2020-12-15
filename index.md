@@ -32,9 +32,6 @@ Attention vs. productivity: For attention, we will consider both followers and f
 
 Followers-followees network: : The available data is a network with the relationship of follower/followee between users in instagram. From this network, the number of mutual or singular followers will be extracted. Then the degree distribution in the follower-followee network will be plotted for the three different relationships: follower,followee or reciprocal.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
 ### 6. Proposed timeline
 
 Week 1: Downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
@@ -48,37 +45,3 @@ Week 3: Compute the needed values for the follower-followee network analysis and
 ### 7. Organization within the team
 
 Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada. Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question. Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions. 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image of Yaktocat](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.jpg)
-[https://daringfireball.net/projects/markdown/basics] and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguerrao/Robotics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

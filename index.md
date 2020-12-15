@@ -40,7 +40,7 @@ Week 2: First plots to check for the ciracdian rythm, build up of the plots for 
 
 Week 3: Compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
 
-![Image of EPFL](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.jpg)
+![Image of EPFL](https://github.com/nguerrao/Robotics/blob/gh-pages/EPFL.JPG)
 
 ### 7. Organization within the team
 

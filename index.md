@@ -17,6 +17,9 @@ For the second question, we will use another dataset on GitHub containing user I
 For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
 ![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png)
+![test image size](/nguerrao.github.io/Robotics/ADA.png){:class="img-responsive"}
+![test image size](/nguerrao.github.io/Robotics/ADA.png){:height="50%" width="50%"}
+![test image size](/nguerrao.github.io/Robotics/ADA.png){:height="700px" width="400px"}
 
 ### Attention vs. Productivity
 

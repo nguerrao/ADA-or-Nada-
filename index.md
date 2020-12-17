@@ -16,20 +16,16 @@ In order to answer the first question, we need an Instagram dataset containing t
 For the second question, we will use another dataset on GitHub containing user ID as well as their number of followers and followees and the number of posts.
 For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
+![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png)
+
 ### Attention vs. Productivity
 
 
 
-### 3. Followers - Followees network
+### Followers - Followees network
 
-Week 1: Downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
+![Image of EPFL](https://nguerrao.github.io/Robotics/FF.png)
 
-Week 2: First plots to check for the ciracdian rythm, build up of the plots for the second question (is attention related to productivity ?) with the tendency curve.
-
-Week 3: Compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
-
-
-![Image of EPFL](https://nguerrao.github.io/Robotics/EPFL.JPG)
 
 ### 7. Organization within the team
 

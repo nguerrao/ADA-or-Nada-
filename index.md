@@ -16,10 +16,10 @@ In order to answer the first question, we need an Instagram dataset containing t
 For the second question, we will use another dataset on GitHub containing user ID as well as their number of followers and followees and the number of posts.
 For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
-![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png)
-![test image size](/nguerrao.github.io/Robotics/ADA.png){:class="img-responsive"}
-![test image size](/nguerrao.github.io/Robotics/ADA.png){:height="50%" width="50%"}
-![test image size](/nguerrao.github.io/Robotics/ADA.png){:height="700px" width="400px"}
+
+![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png){:class="img-responsive"}
+![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png){:height="50%" width="50%"}
+![Image of EPFL](https://nguerrao.github.io/Robotics/ADA.png){:height="700px" width="400px"}
 
 ### Attention vs. Productivity
 

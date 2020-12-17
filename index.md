@@ -27,10 +27,6 @@ For the third question, we will use Huawei Social Network Data, more precisely, 
 ![Image of EPFL](https://nguerrao.github.io/Robotics/FF.png)
 
 
-### 7. Organization within the team
-
-Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada. Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question. Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions. 
-
 
 First Header | Second Header
 ------------ | -------------

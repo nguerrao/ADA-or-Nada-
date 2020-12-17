@@ -16,7 +16,7 @@ In order to answer the first question, we need an Instagram dataset containing t
 For the second question, we will use another dataset on GitHub containing user ID as well as their number of followers and followees and the number of posts.
 For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
-![Image of EPFL](https://nguerrao.github.io/Robotics/CR.png)
+![Image of EPFL](https://nguerrao.github.io/Robotics/CR.PNG)
 
 
 ### Attention vs. Productivity

@@ -24,7 +24,7 @@ For the third question, we will use Huawei Social Network Data, more precisely, 
 
 ### Followers - Followees network
 
-![Image of EPFL](https://nguerrao.github.io/Robotics/FF.png=250x)
+![Image of EPFL](https://nguerrao.github.io/Robotics/FF.png = 250x250)
 
 
 

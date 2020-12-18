@@ -26,22 +26,22 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
  ### Attention vs. Productivity
  
 <p align="center">
-<img src="./AP4.PNG" width="300" />
+<img src="./AP4.png" width="300" />
  </p>
  
  <p align="center">
-<img src="./AP1.PNG" width="300" />
+<img src="./AP1.png" width="300" />
  </p>
 
 
 ### Followers - Followees network
 
 <p align="center">
-<img src="./FF2.PNG" width="300" />
+<img src="./FF2.png" width="300" />
  </p>
  
  <p align="center">
-<img src="./FF1.PNG" width="300" />
+<img src="./FF1.png" width="300" />
  </p>
 
 <p align="center">

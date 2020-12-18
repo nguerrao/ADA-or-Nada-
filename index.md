@@ -22,17 +22,20 @@ The first step was to determine at which time zone the user that uploaded the in
 <img src="./CR_pos.PNG" width="300" />
  </p>
  
- Knowing this, the circadian rythm of the posts in the dataset can be computed, that is the number of posts in function of the hour. The result is the following : 
+ In the image above it is possible to see the position of the user when he posted on instagram. All the other users in the dataset were in the same geographical zone that is Manhattan.
+Knowing the time zone of all the users, the circadian rythm of the posts in the dataset can be computed, that is the number of posts in function of the hour. The result is the following : 
 
 <p align="center">
 <img src="./CR.PNG" width="300" />
  </p>
+ 
+It is possible to see that there are some issues with this reproduction due to the dataset. First of all the hours plotted below are only relative hours with respect to the time of the first post and the day of the week of each post was not possible to be stated. On the other hand, as we anticipated the circadian rythm is quite similar to the one in the article with the tweeter posts. Indeed the hour of posting in Instagram as in Tweeter are influenced by the sleeping habits and the work schedule. By comparison with the circadian rythm of the tweeter post it possible to guess that the minium of the plot obtained has to be situated at around 4:00 AM. 
 
-We can see that the rythm of posting is similar to the circadian rythm, except that is it shifted to the right. This means the minimum is ... whereas it was at time ... for the tweet dataset.
+It is possible to note that as all the users in the dataset were from Manhattan, the difference in the drop or rise rate of posts per hour between the two studies can be due to the fact that all the users were urban. Indeed the population for this study were more present throughout the whole day and earlier in the morning as the rate of rise of the number of posts after its minimum is higher for instagram. 
 
-First, let's visualize the data we have. In this part we will see if Instagram users follow the circadian rhythm. First of all, we are working on data that only contains the time of publication. In the graph below we can see that the publication rate is similar to that achieved on Twitter. We have a peak shift at midnight and then we notice a decline. In fact, there is an increase in the morning that develops during the day. Around 8 p. m. we can notice a second peak.
-However, we cannot replicate this for every day because the required dataset is missing. 
-We therefore conclude that this proposal is robust and can be generalized to any social network.
+Another explanation for the difference in the rising trend can also be due to the difference of the social network, it is possible that users are more inclinded to post earlier in the day as it is seen, as Instagram can be somewhat of an imaged blog of daily routines.
+
+Seeing that the general trend of posting hours is respected, it can be concluded that this proposal is robust and can be generalized to any social network.
 
 
 ### Attention vs. Productivity

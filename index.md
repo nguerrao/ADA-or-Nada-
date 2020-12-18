@@ -5,7 +5,7 @@
 ### ***Abstract***
 
 
-Replication is an important process today because of its main interests. The main objective of this article is to validate 3 proposals, that have already been replicated on the Twitter test proposal study, on other platforms and to re-test their sustainability. 
+Replication is an important process today because of its main interests. The main objective of this article is to validate 3 proposals, that have already been replicated on the Testing Propositions Derived from Twitter Studies paper, on other platforms and to re-test their sustainability. 
 Here we choose Instagram. After replicating this proposals on Instagram, we can generalize it to describe the behavior of social media users.
 
 
@@ -91,10 +91,6 @@ So there is few chances that there is no linear relation between the average num
 
 ### Conclusion
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 [1]: https://github.com/eldersantos/instagram-dataset

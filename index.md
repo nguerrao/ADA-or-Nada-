@@ -19,7 +19,7 @@ For the third question, we will use Huawei Social Network Data, more precisely, 
 
 
 <p align="center">
-<img src="./assets/Robotics/CR.PNG" width="700" />
+<img src="./Robotics/CR.PNG" width="700" />
  </p>
  
 ### Attention vs. Productivity

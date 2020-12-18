@@ -14,8 +14,15 @@ Here we choose Instagram. After replicating this proposals on Instagram, we can 
 Here are the source we used for our datasets. The goal of this replication work was to identify whether three of the replicated propositions are also replicable for other social media such as Instagram. Our first proposition was to identify the rythm of Instagram posts. Then we studied the distribution of posts number with respect to the number of followees and followers. Finally, we compared the result of the paper with an Instagram network where interactions are not followers-followees relations but comment/like on each other publications. As our graph was undirected, we decided to study another graph for comparison: a directed network with follower/followee relations on the Google Plus social media.
 
 ### Circadian rythm
+The first study consists in attempting to reproduce the circadian rythm that was shown in the article for the twitter post but for instagram. Intuitively, the circadian rythm should be approximatively the same as it is governed by the sleeping cycle of the human being and its work schedule. To reproduce this study a dataset used to test event detection techniques in Instagram has been used [source][1].
 
-In order to try to compare the posts rythm of our Instagram dataset [source] with the tweet rythm in the paper, we tried to plot the number of tweets per hour. This task was done by a normalization of time in the dataset. DATA PREPROCESSING? The result was the following:
+The first step was to determine at which time zone the user that uploaded the instrgram post is in order to determine his relative time. With some calculations, it was seen that in fact all the users in the dataset were from the same time zone that was UTC-04:00. Visualizing some of the individuals case by case it was seen that actually the users were all localised in Manhattan :
+
+<p align="center">
+<img src="./CR_pos.PNG" width="300" />
+ </p>
+ 
+ Knowing this, the circadian rythm of the posts in the dataset can be computed, that is the number of posts in function of the hour. The result is the following : 
 
 <p align="center">
 <img src="./CR.PNG" width="300" />
@@ -85,3 +92,6 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+
+[1]: https://github.com/eldersantos/instagram-dataset

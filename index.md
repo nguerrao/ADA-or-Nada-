@@ -30,7 +30,7 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
 In order to frist visualize our data, we ploted histograms up to the third quantile of the following values: number of followers, number of followees, number of posts. Going to the third quantile only allow to have a better idea of the data distribution since it avoids the extreme values.
 
 <p align="center">
-<img src="./AP4.png" width="500" />
+<img src="./AP4.png" width="800" />
  </p>
 
 As we may see above, the distributions of the number of followers and the number of posts are left-tailed, whereas the distribution of the number of followees is uniform-like.

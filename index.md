@@ -1,4 +1,4 @@
-## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
+## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior
 
 
 

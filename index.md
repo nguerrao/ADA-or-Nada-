@@ -61,8 +61,8 @@ As we may see above, the distributions of the number of followers and the number
 Then we realize plots of the number of followers and number of followees agaginst the average number of posts in order to compare it with Figure 3 (A) and (B) of the paper. We also fit a 2-degree polynomial in order to get a trend curve. 
 
 <p float="center">
-  <img src="./AP1.png" width="500" />
-  <img src="./AP3.png" width="500" />
+  <img src="./AP1.png" width="300" />
+  <img src="./AP3.png" width="300" />
 </p>
 
 We can see above that the trend is very stable up to 10^2,8 ~ 631 followees and 10^5 followers. For a greater number of followees and followers, we can noticed that the average number of posts increases with the number of followers as well as with the number of followees. However, it appears that there is no relationship between the average number of posts and the number of followers and followees before that threshold.
@@ -77,13 +77,22 @@ So there is few chances that there is no linear relation between the average num
 
 ### Followers - Followees network
 
+First we analyse the mutual relationships on Instagram network from [Kaggle][3]. In order to proceed and visualize our network, we plot the degree distribution:
+
 <p align="center">
 <img src="./FF2.png" width="400" />
  </p>
  
+ We notice that the distribution is centered on the mean whereas the degree distribution of the Twitter network in the paper is left-tailed. The degree range in our dataset is 0 to 20 whereas the degree range in the Twitter dataset was from 0 to 10^4 for reciprocal relations so our data is less various with fewer entries (1'000 nodes only).
+ 
+ Then we compute the average local clustering coefficients for each degree from 2 to 20 and plot them. We obtain the following results:
+ 
  <p align="center">
 <img src="./FF1.png" width="400" />
  </p>
+
+We can see that the average local clustering coefficient for degree = 5 is equal to 0 and equal to 0.006536 for a dregree = 20. In the paper, the Twitter proposal was that the average local clustering coefficient decreases with the degree. We observe here that it is not the case for our Instagram since it increases with the degree up to degree = 18 and then decreases. It suggests that we can not apply the Twitter proposal to our Instagram dataset.
+
 
 <p align="center">
 <img src="./FF.png" width="400" />
@@ -95,3 +104,4 @@ So there is few chances that there is no linear relation between the average num
 
 [1]: https://github.com/eldersantos/instagram-dataset
 [2]: https://github.com/eldersantos/instagram-dataset
+[3]: https://www.kaggle.com/andrewlucci/huawei-social-network-data

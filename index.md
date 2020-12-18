@@ -24,10 +24,25 @@ Regarding the days of the week, we could not find the database necessary to exam
 However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
 
  ### Attention vs. Productivity
-
+ 
+<p align="center">
+<img src="./AP4.PNG" width="300" />
+ </p>
+ 
+ <p align="center">
+<img src="./AP1.PNG" width="300" />
+ </p>
 
 
 ### Followers - Followees network
+
+<p align="center">
+<img src="./FF2.PNG" width="300" />
+ </p>
+ 
+ <p align="center">
+<img src="./FF1.PNG" width="300" />
+ </p>
 
 <p align="center">
 <img src="./FF.png" width="400" />

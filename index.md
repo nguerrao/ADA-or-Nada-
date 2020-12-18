@@ -1,6 +1,6 @@
 ## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
 
-By Andréa Dardanelli, Borja Rodriguez, Nada Guerraoui. 
+
 
 ### ***Abstract***
 

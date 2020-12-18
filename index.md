@@ -1,8 +1,9 @@
 ## Testing replicated propositions from Twitter studies on Instagram: generalization of social media user behavior.
 
-
+By Andréa Dardanelli, Borja Rodriguez, Nada Guerraoui. 
 
 ### ***Abstract***
+
 
 On the 10 proposals of social studies of the paper, only 4 are replicated. The authors suggest 'it might be because these propositions reflect the homogeneity of online user behaviors'. Thus the idea is to have a closer look on this statement and test if 3 of the 4 replicated proposals are robust when tested on another social media, here Instagram. As said in paper, we 'Need to retest the robustness of these propositions before we can consider them as universal’. Our goal will be to select these 3 proposals and try to replicate the results from the Twitter social studies.
 

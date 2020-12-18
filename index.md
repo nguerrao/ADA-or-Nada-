@@ -80,7 +80,7 @@ So there is few chances that there is no linear relation between the average num
 First we analyse the mutual relationships on Instagram network from [Kaggle][3]. In order to proceed and visualize our network, we plot the degree distribution:
 
 <p align="center">
-<img src="./FF2.png" width="400" />
+<img src="./deg.png" width="400" />
  </p>
  
  We notice that the distribution is centered on the mean whereas the degree distribution of the Twitter network in the paper is left-tailed. The degree range in our dataset is 0 to 20 whereas the degree range in the Twitter dataset was from 0 to 10^4 for reciprocal relations so our data is less various with fewer entries (1'000 nodes only).
@@ -93,9 +93,15 @@ First we analyse the mutual relationships on Instagram network from [Kaggle][3].
 
 We can see that the average local clustering coefficient for degree = 5 is equal to 0 and equal to 0.006536 for a dregree = 20. In the paper, the Twitter proposal was that the average local clustering coefficient decreases with the degree. We observe here that it is not the case for our Instagram since it increases with the degree up to degree = 18 and then decreases. It suggests that we can not apply the Twitter proposal to our Instagram dataset.
 
+If we analyze then the Google Plus network dataset consisting of 107614 nodes and 13673453 directed edges, we see that the distribution of the in and out degrees are left-tailed, similarly as in the the paper:
 
 <p align="center">
-<img src="./FF.png" width="400" />
+<img src="./FF4.png" width="300" />
+<img src="./FF5.png" width="300" />
+ </p>
+
+<p align="center">
+<img src="./Gplus.png" width="400" />
  </p>
 
 ### Conclusion

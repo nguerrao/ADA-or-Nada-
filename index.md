@@ -48,10 +48,11 @@ As we may see above, the distributions of the number of followers and the number
 Then we realize plots of the number of followers and number of followees agaginst the average number of posts in order to compare it with Figure 3 (A) and (B) of the paper. We also fit a 2-degree polynomial in order to get a trend curve. 
 
 <p float="center">
-  <img src="./AP1.png" width="200" />
-  <img src="./AP3.png" width="200" />
+  <img src="./AP1.png" width="300" />
+  <img src="./AP3.png" width="500" />
 </p>
 
+We can see above that the trend is very stable up to 10^2,8 ~ 631 followers. For a greater number of followers, we can noticed that the number of posts increases with the number of followers as well as with the number of followees.
 
 ### Followers - Followees network
 

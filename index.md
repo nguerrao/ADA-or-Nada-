@@ -17,7 +17,7 @@ For the second question, we will use another dataset on GitHub containing user I
 For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
 <p align="center">
-<img src="./CR.PNG" width="500" />
+<img src="./CR.PNG" width="200" />
  </p>
  
 
@@ -29,7 +29,9 @@ For the third question, we will use Huawei Social Network Data, more precisely, 
 
 ### Followers - Followees network
 
-![Image of EPFL](https://nguerrao.github.io/Robotics/FF.png)
+<p align="center">
+<img src="./FF.png" width="200" />
+ </p>
 
 
 

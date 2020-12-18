@@ -111,8 +111,11 @@ We notice that the trend is less flat then on Figure 4. With our three datasets 
 ### Conclusion
 
 We tried to replicate three proposals of the 'Testing Twitter proposals' paper using different datasets from Instagram. For the first one, a circadian rythm was clearly identified, even if it is slightly shifted to the right. Not surprisingly the circadian rythm can also apply to Instagram. This means users from Twitter and Instagram have a similar posting rythm.
+
 For the second one, the proposal was not replicated on our Instagram dataset. Indeed, having more followers or followees did not imply an increase in posts productivity unless the number of followers or followees is very high. So the posting behavior of users relative to the number of followers and followees is different on Twitter than on Instagram.
+
 For the third question, there is no increase of the average local clustering coefficient with the degree. So the Twitter proposal was not replicated and this could imply a disfferent network distribution for Twitter and Instagram. Finally comparing Twitter and Google Plus, Twitter is much more connected than Google Plus since its distribution of degrees is much more equally spread than the distribution of degrees in Twitter. Comparing these three social media, we can see that the network distribution depends on the social media itself (content type, platform...).
+
 We drew these conclusions however carefully since we used many datasets that we did not scrap ourselves. The datasets may then be biased towards a population (geography, popularity) or a specific timeline: some of the datasets may have been extracted a few years ago and the social media behavior can evolve fast.
 
 

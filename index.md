@@ -19,8 +19,8 @@ In order to try to compare the posts rythm of our Instagram dataset [source] wit
  </p>
 
 We can see that the rythm of posting is similar to the circadian rythm, except that is it shifted to the right. This means the minimum is ... whereas it was at time ... for the tweet dataset.
-We see in the picture below behavior similar to Twitter. We have a shift peak at midnight and then we notice a decrease during the night. In addition, there is an increase in the morning, which develops during the day. 
-Regarding the days of the week, we could not find the database necessary to examine this behavior on a daily basis. 
+We see in the picture below behavior similar to Twitter. We have a shift peak at midnight and then we notice a decrease during the night. In addition, there is an increase in the morning, which evoluate during the day. 
+Regarding the days of the week, we could not find the database necessary to study this behavior on a daily basis. 
 However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
 
 

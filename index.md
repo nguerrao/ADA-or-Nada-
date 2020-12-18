@@ -30,7 +30,7 @@ For the third question, we will use Huawei Social Network Data, more precisely, 
 ### Followers - Followees network
 
 <p align="center">
-<img src="./FF.png" width="300" />
+<img src="./FF.png" width="400" />
  </p>
 
 

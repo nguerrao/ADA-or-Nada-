@@ -35,7 +35,7 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
  </p>
  
  <p align="center">
-<img src="./AP3.png" width="300" />
+<img src="./AP3.png" width="500" />
  </p>
 
 

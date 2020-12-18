@@ -24,7 +24,8 @@ Regarding the days of the week, we could not find the database necessary to stud
 However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
 
 
- ### Attention vs. Productivity
+
+### Attention vs. Productivity
  
 <p align="center">
 <img src="./AP4.png" width="500" />

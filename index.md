@@ -83,7 +83,7 @@ First we analyse the mutual relationships on Instagram network from [Kaggle][3].
 <img src="./deg.png" width="400" />
  </p>
  
- We notice that the distribution is centered on the mean whereas the degree distribution of the Twitter network in the paper is left-tailed. The degree range in our dataset is 0 to 20 whereas the degree range in the Twitter dataset was from 0 to 10^4 for reciprocal relations so our data is less various with fewer entries (1'000 nodes only).
+ We notice that the distribution is centered on the mean similarly the degree distribution of the Twitter network in the paper as we can see on Figure 4. The degree range in our dataset is 0 to 20 whereas the degree range in the Twitter dataset was from 0 to 10^4 for reciprocal relations so our data is less various with fewer entries (1'000 nodes only).
  
  Then we compute the average local clustering coefficients for each degree from 2 to 20 and plot them. We obtain the following results:
  
@@ -100,13 +100,22 @@ If we analyze then the Google Plus network dataset consisting of 107614 nodes an
 <img src="./FF5.png" width="300" />
  </p>
 
+Then we make a plot for the degree distribution in the follower-followee network:
 <p align="center">
 <img src="./Gplus.png" width="400" />
  </p>
 
+We notice that the trend is less flat then on Figure 4. With our three datasets from Twitter, Instagram and Twitter, we conclude that Instagram and Twitter have a similar degree distribution whereas GooglePlus was much less connected.
+
+
 ### Conclusion
 
+We tried to replicate three proposals of the 'Testin Twitter proposals' paper using different datasets from Instagram. For the first one, a circadian rythm was clearly identified, even if it is slightly shifted to the right. Not surprisingly the circadian rythm can also apply to Instagram.
+For the second one, the proposal was not replicated on Instagram dataset. This means having more followers or followees did not imply an increase in posts productivity unless the number of followers of followees is very high.
+For the third question, there is no increase of the average local clustering coefficient with the degree. 
 
+
+### Sources and links
 
 [1]: https://github.com/eldersantos/instagram-dataset
 [2]: https://github.com/eldersantos/instagram-dataset

@@ -33,6 +33,10 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
  <p align="center">
 <img src="./AP1.png" width="300" />
  </p>
+ 
+ <p align="center">
+<img src="./AP3.png" width="300" />
+ </p>
 
 
 ### Followers - Followees network

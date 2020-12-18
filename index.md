@@ -5,13 +5,13 @@
 ### ***Abstract***
 
 
-Replication is an important process today because of its main interests. The main objective of this article is to validate 3 proposals, that have already been replicated on the Testing Propositions Derived from Twitter Studies paper, on other platforms and to re-test their sustainability. 
-Here we choose Instagram. After replicating this proposals on Instagram, we can generalize it to describe the behavior of social media users.
+Replication is an important process today because of its main interests. The main objective of this article is to cehck 3 proposals, that have already been replicated on the 'Testing Propositions Derived from Twitter Studies' paper, on other social media and to re-test their sustainability. 
+Here we choose Instagram. After trying to replicate these proposals on Instagram, we can then check whether we behavior of social media users can be generalized.
 
 
 ### Introduction
 
-Here are the source we used for our datasets. The goal of this replication work was to identify whether three of the replicated propositions are also replicable for other social media such as Instagram. Our first proposition was to identify the rythm of Instagram posts. Then we studied the distribution of posts number with respect to the number of followees and followers. Finally, we compared the result of the paper with an Instagram network where interactions are not followers-followees relations but comment/like on each other publications. As our graph was undirected, we decided to study another graph for comparison: a directed network with follower/followee relations on the Google Plus social media.
+Here are the sourcse we used for our datasets. The goal of this replication work was to identify whether three of the replicated propositions are also replicable for other social media such as Instagram. Our first proposition was to identify the rythm of Instagram posts. Then we studied the distribution of posts number with respect to the number of followees and followers. Finally, we compared the result of the paper with an Instagram network where interactions are not followers-followees relations but comment/like on each other publications. As our graph was undirected, we decided to study another graph for comparison: a directed network with follower/followee relations on the Google Plus social media.
 
 ### Circadian rythm
 The first study consists in attempting to reproduce the circadian rythm that was shown in the article for the twitter post but for instagram. Intuitively, the circadian rythm should be approximatively the same as it is governed by the sleeping cycle of the human being and its work schedule. To reproduce this study a dataset used to test event detection techniques in Instagram has been used [source][1].
@@ -40,7 +40,7 @@ Seeing that the general trend of posting hours is respected, it can be concluded
 
 ### Attention vs. Productivity
 
-For this question, we used a dataset from [Github](https://github.com/eldersantos/instagram-dataset) consisting of 348 users. For each user, we have his number of posts, followers and followees on Instagram. Here is an overview of the data value spread:
+For this question, we used a dataset from [Github][2] consisting of 348 users. For each user, we have his number of posts, followers and followees on Instagram. Here is an overview of the data value spread:
 
 Feature | Min | 25% | 50% | 75% | Max | Mean | Std
 --------| ----| ----| ----| ----| ----| -----|----
@@ -94,3 +94,4 @@ So there is few chances that there is no linear relation between the average num
 
 
 [1]: https://github.com/eldersantos/instagram-dataset
+[2]: https://github.com/eldersantos/instagram-dataset

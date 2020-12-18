@@ -23,6 +23,7 @@ We see in the picture below behavior similar to Twitter. We have a shift peak at
 Regarding the days of the week, we could not find the database necessary to examine this behavior on a daily basis. 
 However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
 
+
  ### Attention vs. Productivity
  
 <p align="center">

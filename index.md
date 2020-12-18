@@ -27,7 +27,16 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
 
 ### Attention vs. Productivity
 
-In order to frist visualize our data, we ploted histograms up to the third quantile of the following values: number of followers, number of followees, number of posts. Going to the third quantile only allow to have a better idea of the data distribution since it avoids the extreme values.
+For this question, we used a dataset from [Github](https://github.com/eldersantos/instagram-dataset) consisting of users.
+
+Feature | Min | 25% | 50% | 75% | Max | Mean | Std
+------------ | -------------
+#posts | 0 | 15| 65 | 210 | 7'389 | 198 | 517
+#followers | 9 | 240 | 577 | 1'483 | 1'533'854 | 158'157 | 1'187'622
+#follows | 0 | 231 | 438 | 696 | 7'500 | 712.9 | 1'074.5
+
+
+In order to frist visualize our data, we ploted histograms up to the third quantile of the following values: number of followers, number of followees, number of posts. Going to the third quantile only allow to have a better idea of the data distribution since it avoids the extreme values. For example, the maximum number of followers is 1'187'622 whereas the third quantile is equal to 1'483. So only 25% of the values are greater than 1'483 and form a small long tail.
 
 <p align="center">
 <img src="./AP4.png" width="800" />

@@ -12,18 +12,18 @@ Here are the source we used for our datasets. The goal of this replication work 
 
 ### Circadian rythm
 
-In order to answer the first question, we need an Instagram dataset containing the hour of posting, therefore this dataset from Github will be used. It contains the time of posting as well as the user ID.
-For the second question, we will use another dataset on GitHub containing user ID as well as their number of followers and followees and the number of posts.
-For the third question, we will use Huawei Social Network Data, more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
+In order to try to compare the posts rythm of our Instagram dataset [source] with the tweet rythm in the paper, we tried to plot the number of tweets per hour. This task was done by a normalization of time in the dataset. DATA PREPROCESSING? The result was the following:
 
 <p align="center">
 <img src="./CR.PNG" width="300" />
  </p>
- 
 
+We can see that the rythm of posting is similar to the circadian rythm, except that is it shifted to the right. This means the minimum is ... whereas it was at time ... for the tweet dataset.
+We see in the picture below behavior similar to Twitter. We have a shift peak at midnight and then we notice a decrease during the night. In addition, there is an increase in the morning, which develops during the day. 
+Regarding the days of the week, we could not find the database necessary to examine this behavior on a daily basis. 
+However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
 
- 
-### Attention vs. Productivity
+ ### Attention vs. Productivity
 
 
 

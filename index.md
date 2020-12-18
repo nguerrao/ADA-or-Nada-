@@ -27,30 +27,30 @@ However, we got similar results to the Twitter data analysis. Thus, we conclude 
 
 ### Attention vs. Productivity
 
-For this question, we used a dataset from [Github](https://github.com/eldersantos/instagram-dataset) consisting of users.
+For this question, we used a dataset from [Github](https://github.com/eldersantos/instagram-dataset) consisting of 348 users. For each user, we have his number of posts, followers and followees on Instagram. Here is an overview of the data value spread:
 
 Feature | Min | 25% | 50% | 75% | Max | Mean | Std
 --------| ----| ----| ----| ----| ----| -----|----
 #posts | 0 | 15| 65 | 210 | 7'389 | 198 | 517
 #followers | 9 | 240 | 577 | 1'483 | 1'533'854 | 158'157 | 1'187'622
-#follows | 0 | 231 | 438 | 696 | 7'500 | 712.9 | 1'074.5
+#followees | 0 | 231 | 438 | 696 | 7'500 | 712.9 | 1'074.5
 
+As our dataset contains only 348 entries and has a large value range (from 0 to 7'389 for the number of posts, from 9 to 1'533'854 for the number of followers adn from 0 to 7'500 for the number of followees), the values have a large standard deviation, respectively 517, 1'187'622 and 1'074.5 for the number of posts, followers and followees.
 
-In order to frist visualize our data, we ploted histograms up to the third quantile of the following values: number of followers, number of followees, number of posts. Going to the third quantile only allow to have a better idea of the data distribution since it avoids the extreme values. For example, the maximum number of followers is 1'187'622 whereas the third quantile is equal to 1'483. So only 25% of the values are greater than 1'483 and form a small long tail.
+In order to frist visualize our data, we plot histograms up to the third quantile of the following values: number of followers, number of followees, number of posts. Going to the third quantile only allow to have a better idea of the data distribution since it avoids the extreme values. For example, the maximum number of followers is 1'187'622 whereas the third quantile is equal to 1'483. So only 25% of the values are greater than 1'483 and form a small long tail.
 
 <p align="center">
 <img src="./AP4.png" width="800" />
  </p>
 
-As we may see above, the distributions of the number of followers and the number of posts are left-tailed, whereas the distribution of the number of followees is uniform-like.
+As we may see above, the distributions of the number of followers and the number of posts are left-tailed, whereas the distribution of the number of followees is uniform-like. We can compare the distribution of the number of post with the Figure 1 (A) of our paper. It also shows that the distribution of tweets among users is left-tailed.
 
- <p align="center">
-<img src="./AP1.png" width="300" />
- </p>
- 
- <p align="center">
-<img src="./AP3.png" width="500" />
- </p>
+Then we realize plots of the number of followers and number of followees agaginst the average number of posts in order to compare it with Figure 3 (A) and (B) of the paper. We also fit a 2-degree polynomial in order to get a trend curve. 
+
+<p float="center">
+  <img src="./AP1.png" width="200" />
+  <img src="./AP3.png" width="200" />
+</p>
 
 
 ### Followers - Followees network

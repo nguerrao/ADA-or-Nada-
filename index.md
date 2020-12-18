@@ -5,7 +5,9 @@
 ### ***Abstract***
 
 
-On the 10 proposals of social studies of the paper, only 4 are replicated. The authors suggest 'it might be because these propositions reflect the homogeneity of online user behaviors'. Thus the idea is to have a closer look on this statement and test if 3 of the 4 replicated proposals are robust when tested on another social media, here Instagram. As said in paper, we 'Need to retest the robustness of these propositions before we can consider them as universal’. Our goal will be to select these 3 proposals and try to replicate the results from the Twitter social studies.
+Replication is an important process today because of its main interests. The main objective of this article is to validate 3 proposals, that have already been replicated on the Twitter test proposal study, on other platforms and to re-test their sustainability. 
+Here we choose Instagram. After replicating this proposals on Instagram, we can generalize it to describe the behavior of social media users.
+
 
 ### Introduction
 
@@ -20,9 +22,10 @@ In order to try to compare the posts rythm of our Instagram dataset [source] wit
  </p>
 
 We can see that the rythm of posting is similar to the circadian rythm, except that is it shifted to the right. This means the minimum is ... whereas it was at time ... for the tweet dataset.
-We see in the picture below behavior similar to Twitter. We have a shift peak at midnight and then we notice a decrease during the night. In addition, there is an increase in the morning, which evoluate during the day. 
-Regarding the days of the week, we could not find the database necessary to study this behavior on a daily basis. 
-However, we got similar results to the Twitter data analysis. Thus, we conclude that this suggestion can be generalized for each social network and not specifically for Twitter. 
+
+First, let's visualize the data we have. In this part we will see if Instagram users follow the circadian rhythm. First of all, we are working on data that only contains the time of publication. In the graph below we can see that the publication rate is similar to that achieved on Twitter. We have a peak shift at midnight and then we notice a decline. In fact, there is an increase in the morning that develops during the day. Around 8 p. m. we can notice a second peak.
+However, we cannot replicate this for every day because the required dataset is missing. 
+We therefore conclude that this proposal is robust and can be generalized to any social network.
 
 
 ### Attention vs. Productivity
